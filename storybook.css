@@ -1,0 +1,25 @@
+p {
+  font-size: 24px;
+}
+.page-turn {
+  background-color: #220e13;
+  border-radius:10px;
+  width: 10%;
+  text-align: center;
+}
+a {
+  color: white;
+}
+body {
+  font-family: cursive;
+  background-color: #edece9;
+}
+h1 {
+  background-color: #EFDED1;
+  border: 5px solid #60553a;
+  border-radius: 2px;
+  text-align: center;
+}
+img {
+  box-shadow: 0 2px 5px 0 grey;
+}
