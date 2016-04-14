@@ -1,15 +1,6 @@
 p {
   font-size: 24px;
 }
-.page-turn {
-  background-color: #220e13;
-  border-radius:10px;
-  width: 10%;
-  text-align: center;
-}
-a {
-  color: white;
-}
 body {
   font-family: cursive;
   background-color: #edece9;
