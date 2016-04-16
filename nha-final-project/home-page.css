@@ -25,19 +25,39 @@ h1 {
 }
 .carousel-inner > .item > img {
     margin: 0 auto;
+    width:640px;
+    height:360px;
 }
 .col-xs-6 {
   padding-bottom: 30px;
 }
 .card {
   box-shadow: 0 2px 5px 0 lightgrey;
-  padding: 10px;
+  padding: 7px;
 }
 .fun-fact {
   margin-top: 10px;
   padding-bottom: 20px;
 }
 b {
-  font-size: 18px;
+  font-size: 20px;
   color: #ef9f07;
+}
+p {
+  font-size: 18px;
+}
+nav {
+  box-shadow: 0 2px 5px 0 lightgrey;
+}
+img {
+  width: 100%;
+}
+.not-yellow b {
+  color: black;
+}
+.ticket {
+  margin-top: 10px;
+}
+.carousel-inner img {
+  margin: auto;
 }
