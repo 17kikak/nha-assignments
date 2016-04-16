@@ -1,0 +1,43 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a {
+  display:inline;
+  color: white;
+}
+li a: hover {
+  background-color: #111;
+  color: #53c1e4;
+}
+.navbar-brand {
+  color: #ef9f07;
+}
+h1 {
+  border: 5px solid #6FC6F7;
+  border-radius: 10px;
+  width: 50%;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.col-xs-6 {
+  padding-bottom: 30px;
+}
+.card {
+  box-shadow: 0 2px 5px 0 lightgrey;
+  padding: 10px;
+}
+.fun-fact {
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+b {
+  font-size: 18px;
+  color: #ef9f07;
+}
